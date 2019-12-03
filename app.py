@@ -1,3 +1,4 @@
-from renamer import renameLocal 
+from renamer import Renamer
 
-renameLocal("sphsDisCsec","TEST_NAME")
+r = Renamer()
+r.Rename("sphsDisCsec", "sphsdiscsec")
