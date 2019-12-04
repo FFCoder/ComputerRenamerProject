@@ -1,3 +1,8 @@
+# VS Code Settings
 .vscode
+# Downloaded Python Packages
 __pycache__
+# Environment Variables
 *.env
+# Virtual Environment
+venv
